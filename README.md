@@ -6,4 +6,5 @@ Facebook Research Data can be downloaded here: https://github.com/facebookresear
 
 transformer.zip file contains the prediction and evaluation results of Chia dataset and FRD dataset using different models.
 
-"Chia, a large annotated corpus of clinical trial eligibility criteria | Scientific Data." Nature. Web. <http://www.nature.com/articles/s41597-020-00620-0>.
+Kury, Fabrício, et al. “Chia, a Large Annotated Corpus of Clinical Trial Eligibility Criteria.” Nature News, Nature Publishing Group, 27 Aug. 2020, www.nature.com/articles/s41597-020-00620-0. 
+
