@@ -1,4 +1,4 @@
-# Clinical-trial-eligibility-criteria-parsing
+# Benchmarking transformer models with named entity recognition in clinical trial eligibility criteria 
 
 Chia dataset can be downloaded here: https://figshare.com/articles/dataset/Chia_Annotated_Datasets/11855817/2
 
