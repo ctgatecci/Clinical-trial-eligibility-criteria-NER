@@ -8,9 +8,11 @@ transformer.zip file contains the prediction and evaluation results of Chia data
 
 
 
+
+
 Reference:
 1. Kury, Fabrício, et al. “Chia, a Large Annotated Corpus of Clinical Trial Eligibility Criteria.” Nature News, Nature Publishing Group, 27 Aug. 2020, www.nature.com/articles/s41597-020-00620-0. 
 
-2. Tseo, Yitong, et al. “Information Extraction of Clinical Trial Eligibility Criteria.” ArXiv.org, 28 July 2020, arxiv.org/abs/2006.07296. 
+2. Tseo, Yitong, et al. “Information Extraction of Clinical Trial Eligibility Criteria.” ArXiv.org, 28 July 2020,  https://arxiv.org/pdf/2006.07296.pdf
 
-3. Yang, Xi, et al. “Clinical Concept Extraction Using Transformers.” OUP Academic, Oxford University Press, 29 Oct. 2020, academic.oup.com/jamia/article/27/12/1935/5943218. 
+3. Yang, Xi, et al. “Clinical Concept Extraction Using Transformers.” OUP Academic, Oxford University Press, 29 Oct. 2020, https://academic.oup.com/jamia/article/27/12/1935/5943218
