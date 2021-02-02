@@ -4,9 +4,6 @@ Chia dataset can be downloaded here: https://figshare.com/articles/dataset/Chia_
 
 Facebook Research Data can be downloaded here: https://github.com/facebookresearch/Clinical-Trial-Parser/blob/master/data/ner/medical_ner.tsv
 
-transformer.zip file contains the prediction and evaluation results of Chia dataset and FRD dataset using different models.
-
-
 
 
 
