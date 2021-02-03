@@ -4,7 +4,7 @@ Chia dataset can be downloaded here: https://figshare.com/articles/dataset/Chia_
 
 Facebook Research Data can be downloaded here: https://github.com/facebookresearch/Clinical-Trial-Parser/blob/master/data/ner/medical_ner.tsv
 
-
+All the Transformer based NER models can be found here: https://github.com/uf-hobi-informatics-lab/ClinicalTransformerNER
 
 
 Reference:
